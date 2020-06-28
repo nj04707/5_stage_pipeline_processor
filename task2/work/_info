@@ -1,0 +1,400 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nj047/Desktop/final_ca_task1
+vadder
+Z1 !s110 1593350071
+!i10b 1
+!s100 F<DokAcZR]MMTg8i;3K2I3
+I9IY4b12gkdXAVbeJL:_?Q1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/nj047/Desktop/task2
+w1593118321
+8adder.v
+Fadder.v
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1593350071.000000
+Z6 !s107 tb.v|Riscv.v|registerFile.v|Program_Counter.v|parser.v|mux.v|MEMWB.v|Instruction_memory.v|IFID.v|IDG.v|IDEX.v|EXMEM.v|Data_memory.v|Control_Unit.v|ALU_Control.v|alu_64.v|adder.v|
+Z7 !s90 -reportprogress|300|adder.v|alu_64.v|ALU_Control.v|Control_Unit.v|Data_memory.v|EXMEM.v|IDEX.v|IDG.v|IFID.v|Instruction_memory.v|MEMWB.v|mux.v|parser.v|Program_Counter.v|registerFile.v|Riscv.v|tb.v|
+!s101 -O0
+!i113 1
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu_64
+R1
+!i10b 1
+!s100 4NQlF1J6W1<bI^MV4;K<<3
+IWVEL]z5De6Q>AUJO>0zKI1
+R2
+R3
+w1593103180
+8alu_64.v
+Falu_64.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+vALU_Control
+R1
+!i10b 1
+!s100 ?Z:;gkP8^?@LlJF<^Wh^d3
+Ih=WKlGzbTGTeCUVa5LR7z1
+R2
+R3
+w1593103187
+8ALU_Control.v
+FALU_Control.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@a@l@u_@control
+vControl_Unit
+R1
+!i10b 1
+!s100 F<n^BM]0;Sl>ifTQmiz5^3
+I83`hcil[>Ego7L8C_NEIZ1
+R2
+R3
+w1593022334
+8Control_Unit.v
+FControl_Unit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@control_@unit
+vData_memory
+R1
+!i10b 1
+!s100 :BTm@n]YG:8=S5jida[An2
+IF?bjU3Z:O`0:abYiY_6LN3
+R2
+R3
+w1593120354
+8Data_memory.v
+FData_memory.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@data_memory
+vEXMEM
+R1
+!i10b 1
+!s100 e:mfoNmiJY=[`J>JJijB]3
+Ine29<:;zR@_[`ia@aoGe50
+R2
+R3
+w1593197823
+8EXMEM.v
+FEXMEM.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@e@x@m@e@m
+vIDEX
+R1
+!i10b 1
+!s100 hloBghGSZe82j<TFZVSM`0
+Ib=gI@XdHNH3FUGH_zQ4zi3
+R2
+R3
+w1593200515
+8IDEX.v
+FIDEX.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@i@d@e@x
+vIDG
+R1
+!i10b 1
+!s100 XEMM^ScJ<d1YIRBP@<zG73
+IWM`QM^M`l68F7ee<fW_Yk1
+R2
+R3
+w1582269366
+8IDG.v
+FIDG.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@i@d@g
+vIFID
+R1
+!i10b 1
+!s100 KT>>NH7KGcXbmY=d740XK3
+Ib6<_Vofk5ZY;_m7m6LS@_0
+R2
+R3
+w1593200434
+8IFID.v
+FIFID.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@i@f@i@d
+vInstruction_memory
+R1
+!i10b 1
+!s100 @JR_<3iM9lGan^cgfFGgN3
+I:ddVTZH2S9R6XL489K8i23
+R2
+R3
+w1593197599
+8Instruction_memory.v
+FInstruction_memory.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@instruction_memory
+vMEMWB
+R1
+!i10b 1
+!s100 aXKgL38eell]=c_=P0>E:1
+IA<H286j2:g=h<4_h:Wkel2
+R2
+R3
+w1593198258
+8MEMWB.v
+FMEMWB.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@m@e@m@w@b
+vmux
+R1
+!i10b 1
+!s100 UgL1zj@J`F6JbjCB6=L6C2
+Ic3@JUCUHX4b5G6QZ[f`n`0
+R2
+R3
+w1593118257
+8mux.v
+Fmux.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+vparser
+R1
+!i10b 1
+!s100 lSVB9;AY5h6N@=S98>aiB0
+Ic6hb71NhaMAano5=z`ek=0
+R2
+R3
+w1593118302
+8parser.v
+Fparser.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+vProgram_Counter
+R1
+!i10b 1
+!s100 7^dCe?MPh]IlQIb:GL_F:2
+IgK;6oLYV7iEWjWdHoBUAH2
+R2
+R3
+w1593117818
+8Program_Counter.v
+FProgram_Counter.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@program_@counter
+vregisterFile
+R1
+!i10b 1
+!s100 U5H4>?=ARG6[^6>k?@Sb40
+I5@Gg7E18aCfW?fa3Vnmo[3
+R2
+R3
+w1593120469
+8registerFile.v
+FregisterFile.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+nregister@file
+vRiscv
+R1
+!i10b 1
+!s100 <aI5g`V?Y]jhIk]=gk@`50
+I<GhY`^eMQzL]3nj;BU=aQ3
+R2
+R3
+w1593198413
+8Riscv.v
+FRiscv.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+n@riscv
+vrisk_processor
+!s110 1593121070
+!i10b 1
+!s100 SR9:Je[n<ZihCK`enbgGk3
+IK^1??OCPzJnH?JXRQ^MhF3
+R2
+R0
+w1593116925
+8risk_processor.v
+Frisk_processor.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1593121069.000000
+!s107 tb.v|risk_processor.v|registerFile.v|Program_Counter.v|parser.v|mux.v|Instruction_memory.v|IDG.v|Data_memory.v|Control_Unit.v|ALU_Control.v|alu_64.v|adder.v|
+!s90 -reportprogress|300|adder.v|alu_64.v|ALU_Control.v|Control_Unit.v|Data_memory.v|IDG.v|Instruction_memory.v|mux.v|parser.v|Program_Counter.v|registerFile.v|risk_processor.v|tb.v|
+!s101 -O0
+!i113 1
+R8
+vtb
+R1
+!i10b 1
+!s100 NTfCIEWTZfCj`9cO4[lQ<1
+ITLB>kE^D7Pb`cAX>7<_^;0
+R2
+R3
+w1593198030
+8tb.v
+Ftb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
